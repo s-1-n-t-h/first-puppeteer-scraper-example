@@ -1,0 +1,11 @@
+{
+  "name": "first-puppeteer-scraper-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "types": "module",
+  "dependencies": {
+    "puppeteer": "^20.7.2"
+  }
+}
